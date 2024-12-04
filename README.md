@@ -42,7 +42,6 @@ Installation Instructions
 Usage
 Features
 Credits
-Badges
 How to Contribute
 Testing
 
@@ -85,7 +84,7 @@ Log in with the registered credentials at /login.
 
 3. Accessing Protected Endpoints:
 Include the issued JWT in the Authorization header of subsequent requests:
-Authorization: Bearer <your-jwt-token>
+Authorization: Bearer <jwt-token>
 
 4. Refreshing Tokens:
 Use the refresh token endpoint to generate a new JWT when the current one expires.
@@ -119,9 +118,6 @@ Special thanks to the following resources:
 Tutorial: Building a Secure RBAC System
 MongoDB Documentation
 
-# 📛 Badges
-Badges provide an easy way to show the status of your project and display important links like license and version.
-
 # 🤝 How to Contribute
 We welcome contributions! If you'd like to contribute to this project, follow these steps:
 
@@ -132,7 +128,7 @@ We welcome contributions! If you'd like to contribute to this project, follow th
 5. Open a pull request.
    
 # 🧪 Testing
-We recommend writing unit and integration tests to ensure the application works correctly. 
+I recommend writing unit and integration tests to ensure the application works correctly. 
 
 1. Install Testing Dependencies:
 npm install --save-dev jest supertest
