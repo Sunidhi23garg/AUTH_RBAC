@@ -42,7 +42,6 @@ Installation Instructions
 Usage
 Features
 Credits
-License
 Badges
 How to Contribute
 Testing
@@ -119,9 +118,6 @@ GitHub: Sunidhi23garg
 Special thanks to the following resources:
 Tutorial: Building a Secure RBAC System
 MongoDB Documentation
-
-# 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 # 📛 Badges
 Badges provide an easy way to show the status of your project and display important links like license and version.
